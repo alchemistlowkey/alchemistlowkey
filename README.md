@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucky Samuel</h1>
-<h3 align="center">A passionate Software Engineer student of ALX</h3>
+<h3 align="center">A passionate Software Engineering student of ALX</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alchemistlowkey" alt="alchemistlowkey" /></a> </p>
+![coding](https://github.com/alchemistlowkey/alchemistlowkey/assets/46524038/32f3165f-761d-46aa-8fd8-79de089b1a4a)
 
 - 🔭 I’m currently working on [Tailors Online](https://github.com/alchemistlowkey/tailors_online.git)
 
