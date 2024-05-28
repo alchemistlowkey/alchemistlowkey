@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Tailors Online](https://github.com/alchemistlowkey/tailors_online.git)
 
-- 🌱 I’m currently learning **React, Sveltekit, C#**
+- 🌱 I’m currently learning **Svelte, NodeJS, Express, MongoDB, C#**
 
 - 📝 I occasionally write articles on [https://medium.com/@alchemistlowkey](https://medium.com/@alchemistlowkey)
 
