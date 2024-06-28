@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucky Samuel</h1>
-<h3 align="center">A passionate Software Engineering student of ALX</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="Coding gif" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <img align="left" alt="Coding gif" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
