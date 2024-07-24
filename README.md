@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Tailors Online](https://github.com/alchemistlowkey/tailors_online.git)
 
-- 🌱 I’m currently learning **Svelte, NodeJS, Express, MongoDB, C#**
+- 🌱 I’m currently learning **Sveltekit, NodeJS, Express, MongoDB, C#**
 
 - 📝 I occasionally write articles on [https://medium.com/@alchemistlowkey](https://medium.com/@alchemistlowkey)
 
-- 💬 Ask me about **Django, Laravel**
+- 💬 Ask me about **Sveltekit**
 
 - 📫 How to reach me **alchemistlowkey@gmail.com**
 
