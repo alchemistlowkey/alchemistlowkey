@@ -6,15 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alchemistlowkey" alt="alchemistlowkey" /></a> </p>
 
-- 🔭 I’m currently working on [Tailors Online](https://github.com/alchemistlowkey/tailors_online.git)
-
 - 🌱 I’m currently learning **Sveltekit, NodeJS, Express, MongoDB, C#**
 
 - 📝 I occasionally write articles on [https://medium.com/@alchemistlowkey](https://medium.com/@alchemistlowkey)
 
 - 💬 Ask me about **Sveltekit**
 
-- 📫 How to reach me **alchemistlowkey@gmail.com**
+- 📫 How to reach me
+  **fullstackdev@luckysamuel.me**
 
 - ⚡ Fun fact **When I am not coding, I enjoy watching Donghua**
 
