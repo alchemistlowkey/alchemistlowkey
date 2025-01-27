@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alchemistlowkey" alt="alchemistlowkey" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**, **Java**
 
 - 📝 I occasionally write articles on [https://medium.com/@alchemistlowkey](https://medium.com/@alchemistlowkey)
 
